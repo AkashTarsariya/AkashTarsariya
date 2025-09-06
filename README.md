@@ -1,5 +1,5 @@
 # 💫 About Me:
--  🌱 I’m Currently pursuing - **Master’s in Computer Applications (MCA)**<br><br>- 📊 Aspiring Data Analyst | Business Intelligence Enthusiast<br><br>- 👯 Looking to collaborate on Data Analytics, Visualization, and Insights-driven Projects<br><br>- 📂 Explore all my projects here: - [www.linkedin.com/in/akashtarsariya07](https://www.linkedin.com/in/akashtarsariya07/)<br><br>- 💬 Ask me about - **Data Analytics, Business Intelligence, SQL, Python, Power BI, Tableau, and Visualization Techniques**<br><br>- 📫 Reach me at: - **akashtarsariya55@gmail.com**<br><br></p>
+-  🌱 I’m Currently pursuing - **Master’s in Computer Applications (MCA)**<br><br>- 📊 Aspiring Data Analyst | Business Intelligence Enthusiast<br><br>- 👯 Looking to collaborate on Data Analytics, Visualization, and Insights-driven Projects<br><br>- 📂 Explore all my projects here: - [www.linkedin.com/in/akashtarsariya07](https://github.com/AkashTarsariya?tab=repositories)<br><br>- 💬 Ask me about - **Data Analytics, Business Intelligence, SQL, Python, Power BI, Tableau, and Visualization Techniques**<br><br>- 📫 Reach me at: - **akashtarsariya55@gmail.com**<br><br></p>
 
 
 ## 🌐 Socials:
